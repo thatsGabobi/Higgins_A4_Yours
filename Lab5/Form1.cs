@@ -95,7 +95,7 @@ namespace Lab5
             lblSum.Text = "";
             lblMean.Text = "";
             lblOdd.Text = "";
-            lstNumbers.Items.Clear
+            lstNumbers.Items.Clear();
             this.AcceptButton = btnGenerate;
             this.CancelButton = btnClear;
         }
