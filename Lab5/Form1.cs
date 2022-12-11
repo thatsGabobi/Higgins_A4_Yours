@@ -194,7 +194,7 @@ namespace Lab5
             {
                 lblResults.Text = "First string = " + txtString1.Text + "\n"
                                     + "  Characters = " + txtString1.TextLength + "\n"
-                                    + "Second string = " + txtString1.Text + "\n"
+                                    + "Second string = " + txtString2.Text + "\n"
                                     + "  Characters = " + txtString2.TextLength;
             }
         }
