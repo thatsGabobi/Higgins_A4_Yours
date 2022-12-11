@@ -84,7 +84,7 @@ namespace Lab5
             txtString2.Text = "";
             chkSwap.Checked = false;
             lblResults.Text = "";
-            this.AcceptButton = btnJoined;
+            this.AcceptButton = btnJoin;
             this.CancelButton = btnReset;
         }
 
@@ -95,7 +95,7 @@ namespace Lab5
             lblSum.Text = "";
             lblMean.Text = "";
             lblOdd.Text = "";
-            lstNumbers.Items.Clear
+            lstNumbers.Items.Clear();
             this.AcceptButton = btnGenerate;
             this.CancelButton = btnClear;
         }
@@ -194,7 +194,7 @@ namespace Lab5
             {
                 lblResults.Text = "First string = " + txtString1.Text + "\n"
                                     + "  Characters = " + txtString1.TextLength + "\n"
-                                    + "Second string = " + txtString1.Text + "\n"
+                                    + "Second string = " + txtString2.Text + "\n"
                                     + "  Characters = " + txtString2.TextLength;
             }
         }
