@@ -1,0 +1,30 @@
+C:\Demos\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Demos\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Demos\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Demos\Lab5\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+C:\Demos\Lab5\Lab5\obj\Debug\Lab5.csproj.SuggestedBindingRedirects.cache
+C:\Demos\Lab5\Lab5\obj\Debug\Lab5.Form1.resources
+C:\Demos\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+C:\Demos\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+C:\Demos\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Demos\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Demos\Lab5\Lab5\obj\Debug\Lab5.pdb
+\\Mac\Home\Documents\Fall 2022\C#\Lab\Lab 5\Lab5\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Fall 2022\C#\Lab\Lab 5\Lab5\Lab5\obj\Debug\Lab5.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Documents\Fall 2022\C#\Lab\Lab 5\Lab5\Lab5\obj\Debug\Lab5.Form1.resources
+\\Mac\Home\Documents\Fall 2022\C#\Lab\Lab 5\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+\\Mac\Home\Documents\Fall 2022\C#\Lab\Lab 5\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Fall 2022\C#\Lab\Lab 5\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Fall 2022\C#\Lab\Lab 5\Lab5\Lab5\obj\Debug\Lab5.exe
+\\Mac\Home\Documents\Fall 2022\C#\Lab\Lab 5\Lab5\Lab5\obj\Debug\Lab5.pdb
+\\Mac\Home\Documents\Fall 2022\C#\Lab\Lab 5\Lab5\Lab5\bin\Debug\Lab5.exe.config
+\\Mac\Home\Documents\Fall 2022\C#\Lab\Lab 5\Lab5\Lab5\bin\Debug\Lab5.exe
+\\Mac\Home\Documents\Fall 2022\C#\Lab\Lab 5\Lab5\Lab5\bin\Debug\Lab5.pdb
+\\Mac\Home\Documents\Fall 2022\Introduction to Development Tools\Assignment 4\Higgins_A4_Yours\Higgins_A4_Yours\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Fall 2022\Introduction to Development Tools\Assignment 4\Higgins_A4_Yours\Higgins_A4_Yours\Lab5\obj\Debug\Lab5.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Documents\Fall 2022\Introduction to Development Tools\Assignment 4\Higgins_A4_Yours\Higgins_A4_Yours\Lab5\obj\Debug\Lab5.Form1.resources
+\\Mac\Home\Documents\Fall 2022\Introduction to Development Tools\Assignment 4\Higgins_A4_Yours\Higgins_A4_Yours\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+\\Mac\Home\Documents\Fall 2022\Introduction to Development Tools\Assignment 4\Higgins_A4_Yours\Higgins_A4_Yours\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Fall 2022\Introduction to Development Tools\Assignment 4\Higgins_A4_Yours\Higgins_A4_Yours\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Fall 2022\Introduction to Development Tools\Assignment 4\Higgins_A4_Yours\Higgins_A4_Yours\Lab5\obj\Debug\Lab5.exe
+\\Mac\Home\Documents\Fall 2022\Introduction to Development Tools\Assignment 4\Higgins_A4_Yours\Higgins_A4_Yours\Lab5\obj\Debug\Lab5.pdb
