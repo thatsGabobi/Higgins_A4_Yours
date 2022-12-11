@@ -84,7 +84,7 @@ namespace Lab5
             txtString2.Text = "";
             chkSwap.Checked = false;
             lblResults.Text = "";
-            this.AcceptButton = btnJoined;
+            this.AcceptButton = btnJoin;
             this.CancelButton = btnReset;
         }
 
